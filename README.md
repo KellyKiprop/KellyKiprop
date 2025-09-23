@@ -1,4 +1,4 @@
-# 👋 Hey, Kelly Kiprop here! Data Engineer
+# 👋 Hey, Kelly Kiprop here! Analytics Engineer
 
 I’m passionate about turning raw data into powerful insights and building scalable data systems. Whether it’s wrangling datasets, automating ETL pipelines, or visualizing analytics, I love solving real-world problems with data.
 

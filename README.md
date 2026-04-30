@@ -1,39 +1,93 @@
-# 👋 Hey, Kelly Kiprop here! Data Engineer
+<div align="center">
 
-I’m passionate about turning raw data into powerful insights and building scalable data systems. Whether it’s wrangling datasets, automating ETL pipelines, or visualizing analytics, I love solving real-world problems with data.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Kelly+Kiprop+Rotich;Data+%2B+AI+Engineer;Streaming+%7C+Pipelines+%7C+LLM+Systems" alt="Typing SVG" />
 
----
+<p>
+  <strong>Building production-grade data systems and LLM-powered pipelines from Nairobi, Kenya 🇰🇪</strong><br/>
+  4 years turning messy real-world data into infrastructure that actually holds up.
+</p>
 
-## 🚀 Current Focus
-- 🔄 Building ELT pipelines using Python and PostgreSQL
-- 🧠 Leveling up in **Data Engineering** with Airflow, Spark, and Grafana
-- 📈 Automating YouTube Channel Analytics Dashboards
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-kiprop-389801218/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kipropkelly4@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/KellyKiprop?style=flat-square&color=3B82F6)](https://github.com/KellyKiprop)
 
-
-
-## 📂 Featured Projects
-- 🎬 [YouTube Analytics Dashboard](#): ELT pipeline with automated data extraction, transformation, and visualization using Airflow and Grafana.
-- 🛠️ [ELT Python Package](#): Custom package to extract data from APIs, clean and transform it, then load into PostgreSQL.
-- 📊 [F1 2025 Standings Predictor](#): Built regression models (Linear, XGBoost) to forecast Formula 1 driver rankings using real-world data.
-
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KellyKiprop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KellyKiprop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KellyKiprop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KellyKiprop&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/kelly-kiprop-389801218/)
-- 📧 kipropkelly4@gmail.com
+</div>
 
 ---
 
-### 📌 Fun Fact:
-I love the challenge of debugging data pipelines — it's like solving a mystery, but with SQL and logs. 🕵️‍♂️
+## 🧠 What I Do
+
+I design and build **end-to-end data infrastructure** — from real-time event streams to analytics-ready data models. My focus sits at the intersection of **data engineering and AI systems**: orchestrated pipelines, streaming architectures, LLM cost observability, and cloud-native tooling.
+
+Currently working across the full stack: ingestion → streaming → transformation → serving → observability.
+
+---
+
+## 🔬 Featured Project
+
+### [LLM Cost Intelligence Pipeline](https://github.com/KellyKiprop/llm-cost-intelligence-pipeline)
+> Real-time observability platform for LLM API cost tracking across OpenAI, Anthropic, and xAI providers.
+
+| Layer | Tech |
+|---|---|
+| Ingestion | FastAPI + Apache Kafka |
+| Stream Processing | Spark Structured Streaming |
+| Storage | PostgreSQL (Aiven Cloud) |
+| Transformation | dbt |
+| Orchestration | Apache Airflow |
+| Observability | Grafana |
+
+Built to solve a real problem: teams burning budget on LLM calls with zero visibility. Tracks token usage, cost per model, and provider-level spend — live.
+
+---
+
+## 🛠️ Tech Stack
+
+**Streaming & Orchestration**
+`Apache Kafka` `Apache Spark` `Apache Airflow` `FastAPI`
+
+**Storage & Transformation**
+`PostgreSQL` `Snowflake` `Cassandra` `dbt` `SQL`
+
+**Cloud & Infrastructure**
+`AWS` `Azure` `Docker`
+
+**Languages**
+`Python` `SQL`
+
+**Observability & BI**
+`Grafana` `Power BI` `Tableau`
+
+---
+
+## 📌 Experience
+
+```yaml
+current:   Open to Data / AI Engineering roles
+previous:
+  - Dalberg Data Insights   # analytics & data systems for development sector clients
+  - Twiga Foods             # supply chain data pipelines, East Africa
+  - VamosBets               # real-time event data, betting platform
+  - NGENI Labs              # AI/ML engineering
+location:  Nairobi, Kenya
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KellyKiprop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=KellyKiprop&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellyKiprop&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>If you're working on something interesting in data or AI infrastructure — let's talk.</sub>
+</div>

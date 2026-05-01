@@ -63,7 +63,7 @@ Built to solve a real problem: teams burning budget on LLM calls with zero visib
 ## 📌 Experience
 
 ```yaml
-current:   Open to Data / AI Engineering roles
+current:   Freelancing
 previous:
   - Dalberg Data Insights   # analytics & data systems for development sector clients
   - Twiga Foods             # supply chain data pipelines, East Africa
@@ -71,22 +71,6 @@ previous:
   - NGENI Labs              # AI/ML engineering
 location:  Nairobi, Kenya
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Kelly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KellyKiprop&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=KellyKiprop&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellyKiprop&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
 
 <div align="center">
   <sub>If you're working on something interesting in data or AI infrastructure — let's talk.</sub>
